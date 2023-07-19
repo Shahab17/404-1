@@ -60,7 +60,7 @@ p{
 /* medium devices */
 @media screen and (min-width: 576px) and (max-width:992px) {
     .container{
-        flex-wrap: wrap;
-        margin: 10px;
+       flex-direction: column;
+           
     }
 }
