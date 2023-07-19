@@ -12,6 +12,7 @@
     align-items: center;
     padding-right: 110px;
     padding-left: 70px; 
+     
 }
 .image{
     width: 50%;
@@ -36,11 +37,16 @@ p{
     border-radius: 7px;
     font-size: 18px;
 }
-.footer{
-    color: #BDBDBD;
+.footer {
+    padding: 50px auto;
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%; 
     font-family: Montserrat;
-    margin: 0 500px;
-}
+    color: #BDBDBD;
+    text-align: center;
+ }
 /* media query */
 
 @media screen and (max-width: 576px) {
