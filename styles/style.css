@@ -1,5 +1,11 @@
 
-
+.found{
+    margin-left: 70px;
+    margin-top: 40px;
+    color: #333333;
+    font-size: 16px;
+     
+}
 .container{
     height: 90vh;
     display: flex;
@@ -29,4 +35,9 @@ p{
     color: white;
     border-radius: 7px;
     font-size: 18px;
+}
+.footer{
+    color: #BDBDBD;
+    font-family: Montserrat;
+    margin: 0 500px;
 }
